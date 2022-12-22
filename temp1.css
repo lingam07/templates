@@ -1,0 +1,33 @@
+#img
+{
+    width: 500px;
+    height: 400px;
+}
+.container
+{
+    margin-top: 150px;
+    margin-left: 150px;
+}
+#tem2
+{
+    background-color: rgba(5, 46, 118, 0.9);
+    color: white;
+    padding: 50px;
+}
+#btnimg
+{
+    width: 20px;
+    height: 20px;
+}
+#tem3
+{
+    width: 450px;
+    height: 350px;
+}
+i
+{font-size: 40px;}
+#temimg2
+{
+    width: 400px;
+    height: 350px;
+}
